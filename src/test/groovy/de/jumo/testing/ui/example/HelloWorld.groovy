@@ -1,7 +1,7 @@
 package de.jumo.testing.ui.example
 
 /**
- * Created by Thorsten Schiffer on 20.08.18.
+ * Created by Thorsten Schiffer on 20.08.18. Hallo
  */
 class HelloWorld {
     String text
